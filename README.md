@@ -6,3 +6,4 @@ Collection of notes on various programming languages and tools
 
 ## Tools
 [SSH](/tools/ssh/)
+[Serverless](/tools/serverless/)

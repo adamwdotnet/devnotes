@@ -16,6 +16,7 @@
 [4, 5, 6, 7].every(item => item > 2);   // true
 [4, 5, 6, 7].findIndex(item => item === 5) // 1
 [4, 5, 6, 7].reduce((prev, curr) => prev + curr, 0) // 22
+[4, 5, 6, 7].concat([8, 9]) // [4, 5, 6, 7, 8, 9]
 ```
 
 ## String Functions
